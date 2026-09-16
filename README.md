@@ -207,11 +207,21 @@ python main.py
 
 ## ⚙️ Cấu hình
 
+### File `tokens.txt`
+
+Mở file `tokens.txt` và điền User Token:
+
+```
+MTQ2ODIzOTA1NzM1MDk1NTA5OQ.G1xxxxx.xxxxxxxxxxxxxxxxxxxxxxxx
+```
+
+> Nếu dùng nhiều token, mỗi token 1 dòng.
+
 ### File `config.json` (tự tạo bởi Run.bat)
 
 ```json
 {
-    "token": "DISCORD_TOKEN_CUA_BAN",
+    "token": "ĐIỀN_USER_TOKEN_VÀO_ĐÂY",
     "prefix": "."
 }
 ```
