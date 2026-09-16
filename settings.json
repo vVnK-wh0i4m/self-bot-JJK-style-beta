@@ -1,0 +1,113 @@
+{
+    "bot_name": "HostBot",
+    "author": "QU4N.TH3.D3V",
+    "auto_gif": true,
+    "gif_responses": {
+        "raid": "https://media.tenor.com/images/memes/sukuna-memes/sukuna-meme.gif",
+        "spam": "https://media.tenor.com/images/memes/sukuna-memes/sukuna-meme.gif",
+        "nuke": "https://media.tenor.com/images/memes/sukuna-memes/sukuna-meme.gif",
+        "music": "https://media.tenor.com/images/memes/sukuna-memes/sukuna-meme.gif",
+        "fun": "https://media.tenor.com/images/memes/sukuna-memes/sukuna-meme.gif",
+        "troll": "https://media.tenor.com/images/memes/sukuna-memes/sukuna-meme.gif",
+        "admin": "https://media.tenor.com/images/memes/sukuna-memes/sukuna-meme.gif"
+    },
+    "status_cycle": [
+        ".menu de mo Menu",
+        "HostBot v6.2",
+        "Dung .help de tro giup"
+    ],
+    "menu": {
+        "title": "DOMAIN EXPANSION: INFINITE VOID",
+        "description": "Lanh dia da san sang! Chon thuat thuc ben duoi:",
+        "footer": "HostBot | {servers} servers",
+        "color_main": "0x800080",
+        "sections": {
+            "war": {
+                "name": "WAR",
+                "emoji": "⚔️",
+                "color": "0xFF0000",
+                "command": "raid",
+                "desc": "Menu chien tranh"
+            },
+            "music": {
+                "name": "MUSIC",
+                "emoji": "🎵",
+                "color": "0x00AAFF",
+                "command": "nhac",
+                "desc": "Menu nhac"
+            },
+            "fun": {
+                "name": "FUN",
+                "emoji": "🎮",
+                "color": "0x00FF00",
+                "command": "traloi",
+                "desc": "Menu giai tri"
+            },
+            "utility": {
+                "name": "UTILITY",
+                "emoji": "🛠️",
+                "color": "0xFFFF00",
+                "command": "chucu",
+                "desc": "Menu tien ich"
+            },
+            "admin": {
+                "name": "ADMIN",
+                "emoji": "🛡️",
+                "color": "0xFF0000",
+                "command": "quanly",
+                "desc": "Menu quan ly"
+            },
+            "troll": {
+                "name": "TROLL",
+                "emoji": "🃏",
+                "color": "0x00FFFF",
+                "command": "troll",
+                "desc": "Menu troll"
+            }
+        }
+    },
+    "command_aliases": {
+        "vohahan": "spam",
+        "thuong": "ngon",
+        "lienke": "nhay",
+        "khaitram": "xoa",
+        "huydiet": "nuke",
+        "ngucmon": "voice",
+        "loanvuc": "jl",
+        "anpham": "react",
+        "8ball": "boi",
+        "rps": "keobua",
+        "trivia": "doan",
+        "coinflip": "dongxu",
+        "number": "sobian",
+        "daily": "qua",
+        "bal": "vang",
+        "shop": "cuahang",
+        "avatar": "avt",
+        "banner": "bv",
+        "thauthi": "check",
+        "thanhduyet": "xoa",
+        "giapan": "dm",
+        "nguonluc": "ping",
+        "truytung": "soi",
+        "phian": "soibv",
+        "danhdinh": "info",
+        "ketgioi": "sv",
+        "dongan": "emoji",
+        "tram": "kick",
+        "phong": "ban",
+        "giai": "unban",
+        "diet": "clearch",
+        "tao": "taokenh",
+        "danh": "rename",
+        "batdiet": "ngauNhien",
+        "xucxac": "xucxac",
+        "amhon": "nhacvao",
+        "truhon": "roivoice",
+        "fake": "giamao",
+        "donguyen": "chuluc",
+        "vonghon": "nhai",
+        "nguyenrua": "amque",
+        "batkhuat": "phanhoi"
+    }
+}
